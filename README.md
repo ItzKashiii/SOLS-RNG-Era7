@@ -5,6 +5,8 @@
 
 </div>
 
-### Player Position ( Required )
+This macro is for user's who really wants to grind some auras. Although I can't guarantee you guys that this macro is 100% but most likely this will really work. This macro is only for **NONVIP**
 
+### Player Position ( Required )
+##
 ![PlayerPosition](./Examples/Images/PlayerPosition.png)
