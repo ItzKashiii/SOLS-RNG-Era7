@@ -1,8 +1,8 @@
 <div align="center">
 <h2 align="center">🔥 SOL's RNG Era 7</h2>
 
-  <h3 align="center">A simple macro that auto collects potions using TinyTask</h3>
+  <h4 align="center">A simple macro that auto collects potions using TinyTask</h4>
 
-### Simple Loading Screen
+### Player Position ( Required )
 
-![KPOP Music Player Loading](./images/example1.png "MusicPlayerLoading Example")
+![PlayerPosition](./Examples/Images/PlayerPosition.png")
