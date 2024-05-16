@@ -31,6 +31,8 @@ This part is **REQUIRED** to really work the macro. Follow the image.
 
 ![PlayerPosition](./Examples/Images/PlayerPosition.png)
 
+Once followed all the steps, Run the macro by pressing `F8`. Enjoy!
+
 <h2>VIP</h2>
 Since there's no VIP for my macro, I will make one soon. I mean I would accept it if someone of y'all will give me VIP (MrJhay13) would really appreaciate it.
 
