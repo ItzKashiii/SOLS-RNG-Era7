@@ -11,14 +11,30 @@ These are the steps that is **REQUIRED** inorder to work the macro:
 
 <h3>TinyTask Settings</h3>
 
-1. Play Speed must be on `1x`\n
-2. Turn on the **Continuous Playback**\n
+1. Play Speed must be on `1x`
+2. Turn on the **Continuous Playback**
 3. Your Playback Hotkey should be `F8`
 
 ![TinyTaskSettings](./Examples/Images/TinyTaskSettings.png)
 
 <h3>Roblox Settings</h3>
 
+1. Shift Lock Switch must be **OFF**
+2. Camera Mode set it to **Default (Classic)**
+3. Movement Mode set it to **Default (Keyboard)**
 
 ![RobloxSettings](./Examples/Images/SettingsForMacro.png)
 
+<h3>Player Position</h3>
+
+This part is **REQUIRED** to really work the macro. Follow the image.
+
+![PlayerPosition](./Examples/Images/PlayerPosition.png)
+
+<h2>VIP</h2>
+Since there's no VIP for my macro, I will make one soon. I mean I would accept it if someone of y'all will give me VIP (MrJhay13) would really appreaciate it.
+
+### Star
+If you like this macro, Star the repo! That will help me a lot and Thank you for using it! ^_^
+
+<h2 align="center">**HAPPY GRINDING**</h2>
