@@ -10,6 +10,7 @@ This macro is for user's who really wants to grind some <u>potions</u>. Although
 These are the steps that is **REQUIRED** inorder to work the macro:
 
 <h3>TinyTask Settings</h3>
+
 1. Play Speed must be on `1x`\n
 2. Turn on the **Continuous Playback**\n
 3. Your Playback Hotkey should be `F8`
