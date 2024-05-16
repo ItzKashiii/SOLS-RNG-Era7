@@ -7,4 +7,4 @@
 
 ### Player Position ( Required )
 
-![PlayerPosition](https://github.com/ItzKashiii/SOLS-RNG-Era7/blob/main/Examples/Images/PlayerPosition.png")
+![PlayerPosition](/Examples/Images/PlayerPosition.png")
