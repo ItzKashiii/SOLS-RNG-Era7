@@ -3,6 +3,8 @@
 
   <h4 align="center">A simple macro that auto collects potions using TinyTask</h4>
 
+</div>
+
 ### Player Position ( Required )
 
 ![PlayerPosition](./Examples/Images/PlayerPosition.png")
