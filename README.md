@@ -7,7 +7,7 @@
 
 <h3>V0.1 Error</h3>
 
-The [ERA7NONVIP0.1](https://github.com/ItzKashiii/SOLS-RNG-Era7/tree/main/ERA7-Macro/NONVIP/V0.1) is having some errors, It's like moving slower like its on 5 FPS. So I uploaded a new version for the Macro. You can use the updated version of the macro [ERA7NONVIP0.2](https://github.com/ItzKashiii/SOLS-RNG-Era7/tree/main/ERA7-Macro/NONVIP/V0.2) Enjoy macrohing.
+The [V0.1](https://github.com/ItzKashiii/SOLS-RNG-Era7/releases/tag/V0.1) is having some errors, It's like moving slower like its on 5 FPS. So I uploaded a new version for the Macro. You can use the updated version of the macro [V0.2](https://github.com/ItzKashiii/SOLS-RNG-Era7/releases/tag/V0.2) Enjoy macrohing.
 
 <h3>Better than This?</h3>
 
@@ -19,7 +19,7 @@ So currently I'm working on a so like [dolphSol Macro](https://github.com/Builde
 - Will notify you if you have the **Null** , **Hell** or **Glitch** Biome.
 And more will be mystery so stay **TUNED!!**
 
-This macro is for user's who really wants to grind some <u>potions</u>. Although I can't guarantee you guys that this macro is 100% but most likely this will really work. This macro is only for **NONVIP**. If you're a NONVIP like me. And if you're a first timer. You should download [TinyTask](https://tinytask.net/) once downloaded I will provide the settings for it below of this info. Once downloaded, Download the [Macro Here](https://github.com/ItzKashiii/SOLS-RNG-Era7/tree/main/ERA7-Macro/NONVIP/V0.2) for those only NONVIP Players. I will also provide a image how to use it. 
+This macro is for user's who really wants to grind some <u>potions</u>. Although I can't guarantee you guys that this macro is 100% but most likely this will really work. This macro is only for **NONVIP**. If you're a NONVIP like me. And if you're a first timer. You should download [TinyTask](https://tinytask.net/) once downloaded I will provide the settings for it below of this info. Once downloaded, Download the [Macro Here](https://github.com/ItzKashiii/SOLS-RNG-Era7/releases/tag/V0.2) for those only NONVIP Players. I will also provide a image how to use it. 
 
 These are the steps that is **REQUIRED** inorder to work the macro:
 
