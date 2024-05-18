@@ -11,7 +11,7 @@ The [ERA7NONVIP0.1](https://github.com/ItzKashiii/SOLS-RNG-Era7/tree/main/ERA7-M
 
 <h3>Better than This?</h3>
 
-So currently I'm making like a [dolphSol Macro](https://github.com/BuilderDolphin/dolphSol-Macro?tab=readme-ov-file) but on terminal. But some features of it is not on **dolphSol**. These are the features for my Macro.
+So currently I'm working on a so like [dolphSol Macro](https://github.com/BuilderDolphin/dolphSol-Macro?tab=readme-ov-file) but on terminal. But some features of it is not on **dolphSol**. These are the features for my Macro.
 
 **Features:**
 - AutoCollect Potions
